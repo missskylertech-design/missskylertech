@@ -13,7 +13,7 @@
 
 ### 🌐 Liens
 - 🌍 Portfolio : https://skylertech.dev
-- 💼 LinkedIn : [https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/ana%C3%AFs-adel-mwashi-a67322384?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B52l5FTqpRkqGPgzAbCqkiQ%3D%3D)
+- 💼 LinkedIn : https://www.linkedin.com/in/anaïs-adel-mwashi-a67322384
 - 📂 Projets : voir mes repositories ci-dessous 👇
 
 ✨ Toujours en train d’apprendre et de construire.
